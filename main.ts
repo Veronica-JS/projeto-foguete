@@ -1,11 +1,4 @@
 let Fase_2 = 0
-basic.showLeds(`
-    # # # # #
-    # . # . #
-    # # . # #
-    # # # # #
-    # . . . #
-    `)
 let decolar = 0
 basic.showLeds(`
     # . # # .

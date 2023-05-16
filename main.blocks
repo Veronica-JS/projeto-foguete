@@ -1,10 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="1V_?}N22Ni?X4e7P`]Y2">Fase 1</variable><variable id="[_%[jvqd$k0+?Z_/b)x;">Fase 2</variable><variable id="Llm8%@NjHp=lv@pqInQA">list</variable><variable id="seJa0q}G|ZgqlRIG9{Vr">decolar</variable></variables><block type="pxt-on-start" id="o2}$^6eI4!iLqRz:[JbL" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="e?40qGp5d%kx{y*a`+Hq"><field name="LEDS">`
-        # # # # # 
-        # . # . # 
-        # # . # # 
-        # # # # # 
-        # . . . #
-        `</field><next><block type="variables_set" id=",`*h7oT}X#^,Cf=_qS-e"><field name="VAR" id="seJa0q}G|ZgqlRIG9{Vr">decolar</field><value name="VALUE"><shadow type="math_number" id="cObnuxId1m(D!X|:-W/2"><field name="NUM">0</field></shadow></value><next><block type="device_show_leds" id="rE2YkmoWEK|Nl9vP-!qe"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="1V_?}N22Ni?X4e7P`]Y2">Fase 1</variable><variable id="[_%[jvqd$k0+?Z_/b)x;">Fase 2</variable><variable id="Llm8%@NjHp=lv@pqInQA">list</variable><variable id="seJa0q}G|ZgqlRIG9{Vr">decolar</variable></variables><block type="pxt-on-start" id="o2}$^6eI4!iLqRz:[JbL" x="193" y="-342"><statement name="HANDLER"><block type="variables_set" id=",`*h7oT}X#^,Cf=_qS-e"><field name="VAR" id="seJa0q}G|ZgqlRIG9{Vr">decolar</field><value name="VALUE"><shadow type="math_number" id="cObnuxId1m(D!X|:-W/2"><field name="NUM">0</field></shadow></value><next><block type="device_show_leds" id="rE2YkmoWEK|Nl9vP-!qe"><field name="LEDS">`
         # . # # . 
         # # . . # 
         # # . . # 
@@ -148,4 +142,4 @@
         . . . . . 
         . . # . . 
         # # # # #
-        `</field><next><block type="device_clear_display" id="o|%1Q1MKEO0mRKFDp#Ek"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_clear_display" id="o|%1Q1MKEO0mRKFDp#Ek"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
